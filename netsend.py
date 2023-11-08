@@ -7,7 +7,7 @@ import recv_file
 import send_file
 
 root = tk.Tk()
-root.title("File Transfer")
+root.title("NetSend")
 
 # Set the window size
 root.geometry("400x200")
