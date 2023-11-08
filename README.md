@@ -33,7 +33,7 @@ Netshare is a simple file transfer application built in Python using the Tkinter
 
 
 ## Contributers
-Amrinder Guler
-Anshul Suwalka
-Nakul Choudhary
-Parhas
+1. Amrinder Guler
+2. Anshul Suwalka
+3. Nakul Choudhary
+4. Parhas
